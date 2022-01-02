@@ -10,7 +10,7 @@
 
 # Update!
 ###  2nd January of 2022
-*The Api that I used to search the covid data doesn't work, so that means that the app doesn't work.*
+*The Api that I used to look up the covid data doesn't work, so that means that the app is not working.*
 
 *Sorry for the inconvenience*
 
